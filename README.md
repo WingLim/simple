@@ -9,4 +9,4 @@ simple
 4.邀请码问题<br />
 5.登录后右上角头像问题<br />
 
-感谢 http://iwch.me 反馈的BUG
+感谢 http://www.iwch.me 反馈的BUG
