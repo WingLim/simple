@@ -39,7 +39,7 @@ $title = $extra_title ? "用户中心 - 贴吧签到助手 - {$extra_title}" : '
 <li>2014 © <a href="http://www.ikk.me" target="_blank">kookxiang</a></li>
 <li><a href="https://me.alipay.com/kookxiang" target="_blank">赞助</a></li>
 <!-- 开发不易，跪求各位大大放俺一条生路 -->
-<!-- 你可以在这加你自己的链接，但是麻烦保留下我的赞助链接 Thanks -->
+<!-- 你可以在这加你自己的链接，但是麻烦保留下Kookxiang的赞助链接 Thanks -->
 <li><a href="http://www.kookxiang.com" target="_blank">KK's Laboratory</a></li><?php if(getSetting('beian_no')) echo ' - <a href="http://www.miibeian.gov.cn/" target="_blank" rel="nofollow">'.getSetting('beian_no').'</a>'; ?>
 </ul>
 </div>
