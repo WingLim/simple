@@ -6,7 +6,7 @@ if(!defined('IN_KKFRAME')) exit();
 <meta charset=utf-8>
 <title>系统消息</title>
 <meta name=viewport content="initial-scale=1, minimum-scale=1, width=device-width">
-<style>
+<style type="text/css">
 *{margin:0;padding:0}
 html,code{font:15px/22px arial,sans-serif}
 html{background:#fff;color:#222;padding:15px}
